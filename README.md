@@ -1,4 +1,3 @@
-# API-
 # **Assignment Elaboration: API Testing and Database Integration**
 
 You are a developer for an educational analytics platform that helps teachers evaluate students' performance. The platform maintains student records, including their names, grades, and marks in multiple subjects, stored in a JSON format.
